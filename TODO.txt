@@ -1,0 +1,2 @@
+- MD5 of "entire dirlist"
+- Partial MD5s of large files, customizable number of parts
